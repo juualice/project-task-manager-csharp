@@ -1,0 +1,14 @@
+# Banco de dados SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Build
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User secrets
+*.user

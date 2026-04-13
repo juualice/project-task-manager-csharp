@@ -46,8 +46,8 @@ public class ProjectService
     public async Task<bool> DeleteAsync(int id)
     {
         var project = await _repository.GetByIdAsync(id);
-    if (project == null) return false;
-    await _repository.DeleteAsync(id);
-    return true;
+        if (project == null) return false;
+        await _repository.DeleteAsync(id);
+        return true;
     }
 }
