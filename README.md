@@ -69,7 +69,7 @@ TaskManager/
 1. **Clone o repositório**
    ```bash
    git clone <seu-repositorio>
-   cd "Projeto backend C#"
+   cd "project-task-manager-csharp"
    ```
 
 2. **Restaure as dependências**
