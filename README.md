@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TaskManager - API de Gerenciamento de Tarefas
 
 Uma API moderna construída em **ASP.NET Core 10** para gerenciamento de projetos e tarefas, seguindo princípios de **Clean Architecture** e boas práticas de desenvolvimento.
@@ -197,6 +196,3 @@ Para dúvidas ou sugestões, entre em contato através de issues no repositório
 ---
 
 **Última atualização:** Abril de 2026
-=======
-# project-task-manager-csharp
->>>>>>> 5f87b00247b03e05297996d2e11d6b2842a615b7
